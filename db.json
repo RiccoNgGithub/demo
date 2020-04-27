@@ -17,5 +17,8 @@
       "type": "customer",
       "hashedMemberId": "1920000002"
     }
+  },
+  "logout": {
+    "status": "token-deleted"
   }
 }
