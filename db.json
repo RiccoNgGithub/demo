@@ -20,11 +20,11 @@
   },
   "logout": {
     "status": "token-deleted"
-  }
+  },
   "refresh_auth_token": {
     "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJibG9ja2NoYWluLmJmZiIsImlzcyI6ImJsb2NrY2hhaW4uYmZmIiwiaGFzaGVkTWVtYmVySWQiOiIkMmEkMTAkMmVHbFo2dXJmODVBeFNIbDU2N2g0dXdFUlYyZWRESmJsVUZIaVgyQjMzVXkxWFRBU3MwSmEiLCJ0eXBlIjoiY3VzdG9tZXIiLCJpYXQiOjE1ODY0MDQ3OTQsInVzZXJuYW1lIjoiVGVzdCBVc2VyIn0.6RzYmooG5GFHUjV5groKwtzqEQo9WyVH8_Jj7SDThuc",
     "refreshToken": "OCv2iPWtdy8Pl2KqmMfcosfbzIMO1lc4beT4Ra2gYxsuEfANCAhw18Zf6XLxvHamrkl9NLSy85ha7DuL2qMy0u5AQQ3aI8xGj96vnvqS0Rc4F5JjzoW46LotzaYhs6UK"
-  }
+  },
   "get_customer_profile": {
     "memberId": "1920000001",
     "displayName": "Test User",
@@ -46,7 +46,7 @@
         ]
       }
     }
-  }
+  },
   "get_all_campaigns": [
     {
       "campaignId": "campaign_food_hunt",
@@ -54,7 +54,7 @@
       "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/campaign_food_hunt.png",
       "shortDescription": "Gather your family and friends to start earning 210,000 points now!"
     }
-  ]
+  ],
   "get_all_rewards": [
     {
       "rewardId": "Reward_1",
@@ -68,7 +68,7 @@
       "shortDescription": "New member can enjoy 20% off in selected shops in the first 30 days",
       "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_2.png"
     }
-  ]
+  ],
   "get_all_exclusive_rewards": [
     {
       "rewardId": "Reward_1",
@@ -84,7 +84,7 @@
       "shortDescription": "New member can enjoy 20% off in selected shops in the first 30 days",
       "thumbnailUrl": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/reward_2.png"
     }
-  ]
+  ],
   "get_tier_settings": [
     {
       "name": "GREEN",
@@ -132,7 +132,7 @@
         }
       ]
     }
-  ]
+  ],
   "get_transaction_histories": {
     "currentPointValue": 703,
     "histories": [
