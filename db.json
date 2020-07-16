@@ -1,28 +1,11 @@
 {
-  "create_customer": {
-    "username": "Test User",
-    "password": "abcd1234",
-    "memberId": "1950000001",
-    "hashedMemberId": "1950000001",
-    "displayName": "Test User",
-    "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/atanism/128.jpg",
-    "expiryDate": "2020-12-31T12:59:59+08:00",
-    "pointValue": 0,
-    "tierCode": "GREEN"
+  "login1": {
+    "accessToken": "UrAPgsnLZ7yE3A7ND3hXB79zbZKWgu8QwBPLhh273HdZvWHdQUYH3SKv3H56vuXT7RXTbUr4gjPH96a87GXRLn8bXqHm5mjWm9QYhkz4Cgr2Sdt6QgZxGQP8KePuUxhDhF7GGn9sFBZGjj3EthG9zTexHpM6XT4TcVQ3RtwTAf5FJXNkR58brjq7WeXEwgYVhNYY5UmkTtASA3DuFxM6YNLJb8yECfeKd29cVEK6qRHGCZ6rMrxfSPeMgfKjG32w",
   },
-  "login": {
-    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJibG9ja2NoYWluLmJmZiIsImlzcyI6ImJsb2NrY2hhaW4uYmZmIiwiaGFzaGVkTWVtYmVySWQiOiIkMmEkMTAkQkVCYVZmWWgzZEF5b21MakZHbGtqdVVIOUp6YmF2eHVReWFNL3FlMFVsNUJqT0QzWTJaY3kiLCJ0eXBlIjoiY3VzdG9tZXIiLCJpYXQiOjE1ODYyNDA4NTEsInVzZXJuYW1lIjoieW9ya3Rlc3QyIn0.McaPfCqaVEn1-hTIUWkTdg3bvvBM-sxHX027OQCO5qM",
-    "refreshToken": "V5WwxGe2ZaxTRcPj96C5CLNHxiJn3egKbfCEE3mdoNHldifmnyxn78WsoLIxRLrc9E67E5z2ij8BiVVyywWL0oFuj2OZcOo6dAvUw1YMqmfCvXnI4HEeVK1RoGDpftNe",
-    "additionalData": {
-      "type": "customer",
-      "hashedMemberId": "1920000002"
-    }
+  "login2": {
+    "accessToken": "jCGE32T3NR8Y3Y4VFCkPxKHXKMDUHdrcyJRzHSgcDwTy2eHaQeKUHLq29P7PTUuPpzRdyU6fbMF3r9MTrQC9ccPnQmFKNubKc72stfvEKb7GUbLmRGLWyms8WEqbYXnRKrFBcTQ2LbrsB284z9Mw7vyauV2dfMQhyuuQgqXQ6tRK5r2MnP9Uc4Y4AsqkUG74wpePkj2jb55EHKUs3QLgPHdfTg7zsnHAULAn3W7JkSDyRawjPdAs8rhZcUFN6cNX",
   },
-  "logout": {
-    "status": "token-deleted"
+  "login3": {
+    "accessToken": "8CX98a9nRh96NYq4EEkK25hf5D5WQJr4zfzLb48dn5tkdvAzrxEPWyXBRtHG3haW6rJrQ6GnLaTKH3mtdYc8T2GPE895XhX6zPFFFc8B6n6CbePNS5CxNce8qXw7JuY6ZzkhDWEpk8VQLpawJK7J4HzYBV2mhB7pFvy8dT5AQtgchwYFn8TK8VKAXPWtMRmQweeyXrkmdYdEhaQ5dXSXRrLv6z4QPNEDzdXyqnUKpYmqyMVGbxp5NLRwauGGw5YB",
   },
-  "refresh_auth_token": {
-    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJibG9ja2NoYWluLmJmZiIsImlzcyI6ImJsb2NrY2hhaW4uYmZmIiwiaGFzaGVkTWVtYmVySWQiOiIkMmEkMTAkMmVHbFo2dXJmODVBeFNIbDU2N2g0dXdFUlYyZWRESmJsVUZIaVgyQjMzVXkxWFRBU3MwSmEiLCJ0eXBlIjoiY3VzdG9tZXIiLCJpYXQiOjE1ODY0MDQ3OTQsInVzZXJuYW1lIjoiVGVzdCBVc2VyIn0.6RzYmooG5GFHUjV5groKwtzqEQo9WyVH8_Jj7SDThuc",
-    "refreshToken": "OCv2iPWtdy8Pl2KqmMfcosfbzIMO1lc4beT4Ra2gYxsuEfANCAhw18Zf6XLxvHamrkl9NLSy85ha7DuL2qMy0u5AQQ3aI8xGj96vnvqS0Rc4F5JjzoW46LotzaYhs6UK"
-  }
 }
